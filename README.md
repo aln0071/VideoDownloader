@@ -1,6 +1,4 @@
 # VideoDownloader
-A simple video downloader that I created for my sister
-# VideoDownloader
 This is a simple video downloader that I made for my sister.
 
 As her school was closed due to COVID-19, she had online classes from a third party training institution. They uploaded tutorial videos to their website with no download option. They also put a deadline after which they remove the uploaded videos.
