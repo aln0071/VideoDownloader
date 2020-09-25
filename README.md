@@ -24,7 +24,7 @@ From your linux terminal, run the `` concat.sh `` shell script. Make sure that t
 
 > **Note:** You won't be knowing exactly how many parts are there for a video. So, generate a `` urls.txt `` file that has a greater number of URLs. The downloader will automatically handle that.
 
-> **Note:** You will need JDK for compiling the Java program. Feel free to use any other method to the generate the ``urls.txt`` file. The only thing to remember is that you need to have one URL per line.
+> **Note:** You will need JDK for compiling the Java program. Feel free to use any other method to generate the ``urls.txt`` file. The only thing to remember is that you need to have one URL per line.
 
 > **Note:** To get the initial URL, inspect your browser's network tab while you are on the webpage containing the video, and look for a request fetching file with ``.ts`` extension.
 
